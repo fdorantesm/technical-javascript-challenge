@@ -16,16 +16,16 @@ Your mission, if you decide to accept it... is get some statistical data about t
 
 ### Challenges
 
-1. The championsest  countries (Confederation + World Cup or choose one tournament).
-2. The most runnerUp countries (Confederation + World Cup or choose one tournament).
-3. Tournaments without headquarter.
-4. Champions Headquarters.
+1. The most champion country by confederation + World Cup.
+2. The most runnerUp country by confederation + World Cup.
+3. All tournaments without fixed headquarter.
+4. Headquarter champions.
 5. All finals solved in penalties.
-6. Total goals in each tournament.
-7. Championships consecutively (Choose one tournament).
-8. Runner up countries without championships.
-9. All finals solved with more than one match.
-10. World cup tournament in leap year.
+6. Total goals per tournament.
+7. Consecutively champions by confederation.
+8. All runner up countries without championships by confederation.
+9. All finals solved with many matches.
+10. Tournaments in leap year by confederation.
 
 ### Recommendations
 
@@ -44,5 +44,5 @@ Your mission, if you decide to accept it... is get some statistical data about t
 
 * Finals solved with penalties contains `P` at the end of score.
 * Finals solved with more than one match contains scores separated by comma: `2-1, 1-0, 0-0`.
-* Tournament without fixed headquarter were resolved with more than one match.
+* Tournament without fixed headquarter were resolved with many matches.
 * Germany was divided in two by the Berlin Wall `(East Germany and West Germany)` from 1961 until 1989 but today Germany is unified and it has 4 world championships.
